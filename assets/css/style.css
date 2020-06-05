@@ -43,6 +43,7 @@ nav ul li a:hover{
 
 .im2 article{
     background: url(../img/illustration2.png) left/contain no-repeat;
+    padding-left: 40%;
 }
 
 .im3 article{
@@ -58,11 +59,6 @@ nav ul li a:hover{
     width: 300px;
     line-height: 3em;
     margin-bottom: 40px;
-}
-
-.sc_why.im2 div{
-    width: 60%;
-    margin-left: auto;
 }
 
 .sc_why a{
