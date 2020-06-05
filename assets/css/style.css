@@ -186,6 +186,10 @@ footer a{
     color: #202020;
 }
 
+footer a:hover{
+    text-decoration: underline;
+}
+
 footer a .fb{
     color: #3b5998;
 }
